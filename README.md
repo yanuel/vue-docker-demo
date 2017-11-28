@@ -1,5 +1,4 @@
 # vue-docker-demo
-<<<<<<< HEAD
 
 > A Vue.js project
 
